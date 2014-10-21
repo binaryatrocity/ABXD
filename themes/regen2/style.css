@@ -5,6 +5,10 @@
 /* Regen 2.0, dotanoobs theme
    Modified by Binaryatrocity */
 
+#theme_banner {
+    width: 100%;
+}
+
 .faq {
 	border: 1px solid hsl(0, 0%, 25%);
 	background: hsl(0, 0%, 10%);
