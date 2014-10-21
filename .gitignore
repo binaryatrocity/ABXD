@@ -9,6 +9,7 @@ img/logos/*.gif
 img/logos/*.jpg
 img/logos/*.ico
 !plugins/uploader/
+plugins/
 downloads/
 securimage/
 layoutmaker/
